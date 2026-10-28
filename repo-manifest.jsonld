@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Kozea/passman/commit/565bf2a023d10609f6ed143d9517f4b5a8ddafd9",
       "git:hexsha": "565bf2a023d10609f6ed143d9517f4b5a8ddafd9",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
